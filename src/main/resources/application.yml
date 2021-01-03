@@ -1,0 +1,12 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: test-web
+  profiles:
+    active: local
+  datasource:
+    url: jdbc:mysql://172.0.0.1:3306/my_test?useSSL=false&autoReconnect=true&useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8
+    username: root
+    password: 12346
+    driver-class-name: com.mysql.cj.jdbc.Driver
