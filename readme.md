@@ -6,4 +6,4 @@
 
 
 
-**文章地址**：https://zlt2000.gitee.io/2021-01-02-mysql-stream-query/
+**文章地址**：[https://mp.weixin.qq.com/s/PStUk7LoHx64xacJnHp5ew](https://mp.weixin.qq.com/s/PStUk7LoHx64xacJnHp5ew)
